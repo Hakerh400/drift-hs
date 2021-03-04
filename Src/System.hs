@@ -4,7 +4,7 @@
 {-# LANGUAGE TypeSynonymInstances #-}
 {-# LANGUAGE FlexibleContexts #-}
 
-module System (
+module Src.System (
   IdentType(..),
   Ident,
   Pred(..),

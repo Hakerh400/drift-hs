@@ -1,6 +1,10 @@
+module Src.Main (
+  main
+) where
+
 import qualified Data.Set as Set
 
-import System
+import Src.System
 
 main :: IO ()
 main = do
